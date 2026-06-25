@@ -1,6 +1,6 @@
 # CapsaNode License
 
-Copyright (c) 2026 [Your Name/Organization]
+Copyright (c) 2026 Peter Nielsen, Magic Mouse, 4-Finger Publishing
 
 This software is licensed under a modified PolyForm Noncommercial contract with strict attribution and derivative monetization riders.
 
@@ -19,4 +19,4 @@ Managed Services & Cloud Hosting Protection: You may not offer CapsaNode, or any
 ## 3. Non-Commercial Evaluation & The Coffee Clause
 If your deployment does not generate revenue, it is 100% free. If CapsaNode powers your home lab, Pi cluster, or hobby project, you are encouraged to buy the developer a coffee to support continued independent development.
 
-For commercial licensing, derivative partnership inquiries, or to buy a coffee, contact: [Your Email / BuyMeACoffee Link]
+For commercial licensing, derivative partnership inquiries, or to buy a coffee, contact: https://ko-fi.com/eotty
